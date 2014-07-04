@@ -7,4 +7,4 @@ Format converters for Bioinformatics:
 * _shapeit2bgl.R_:  Transform the [SHAPEIT](https://mathgen.stats.ox.ac.uk/genetics_software/shapeit/shapeit.html "SHAPEIT") output (extensions .haps and .sample assumed) to BGL format. Ussage: `Rscript shapeit2bgl.R fileroot inputfolder outputfolder`
 
 --------------------------------------------------------------------------------------------------------
-*Python scripst are written in Python 2.7. and needs argparse-1.2.1 
+*Python scripst are written in Python 2.7. and needs [argparse-1.2.1](https://docs.python.org/dev/library/argparse.html)
